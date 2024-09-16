@@ -36,4 +36,5 @@ public class GameController : MonoBehaviour
 }
 
 
-//Copy paste ny kode i disse filer, og ændret linjer og kode vil highlightes af github.
+//added this line in gamecontroller.cs
+//Another update
